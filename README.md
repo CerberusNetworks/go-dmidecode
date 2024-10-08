@@ -59,5 +59,5 @@ func main() {
 ```
 
 ### Implemention Details
-The underlying DMI decode/parse is based on [go-smbios](https://github.com/digitalocean/go-smbios), Some functions are simply a re-implemention of the C version [dmidecode](https://github.com/mirror/dmidecode)
+The underlying DMI decode/parse is based on [go-smbios](https://CerberusNetworks/go-smbios), Some functions are simply a re-implemention of the C version [dmidecode](https://github.com/mirror/dmidecode)
 SMBIOS Documention reference [DSP0134_3.1.1.pdf](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.1.1.pdf)
