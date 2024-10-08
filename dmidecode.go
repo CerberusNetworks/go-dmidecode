@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitalocean/go-smbios/smbios"
+	"github.com/CerberusNetworks/go-smbios/smbios"
 )
 
 const (
